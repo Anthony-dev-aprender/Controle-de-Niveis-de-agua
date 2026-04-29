@@ -1,0 +1,1 @@
+Este projeto tem como objetivo simular um sistema simples de monitoramento de um reservatório de água utilizando Python. A aplicação é executada no terminal e exibe mensagens de alerta com cores diferentes, de acordo com o nível atual da água.
